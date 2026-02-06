@@ -8,6 +8,9 @@ print(age)
 # print(x)
 # print(y)
 #  integer
+# string
+f = "please enter a number from 1 and 50"
+
 text = "please fill this form"
 print(text)
 name =input("Enter your name: ")
@@ -25,6 +28,7 @@ bmi = weight / (height ** 2)
 print(bmi)
 # the second
 print("All about the python project that i will learn")
+# boolean
 is_girl = True
 is_boy = False
 # another material
